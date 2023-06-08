@@ -1,5 +1,3 @@
-# program bohužel nefunguje správně - vyscrapuje vše z dané stránky a vyhodí obrovský csv soubor - bohužel se mi to nedaří opravit ani s pomocí materiálů/youtube/chatgpt :(
-
 # projekt03_elections_scraper
 
 # Elections_scraper ze stránek https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ vytáhne výsledky voleb pro vámi dané město a uloží jej do souboru csv.
